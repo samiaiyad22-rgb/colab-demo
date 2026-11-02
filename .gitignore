@@ -1,0 +1,6 @@
+# Local secret files
+.env
+.env.*
+
+# Temporary notebook checkpoints
+.ipynb_checkpoints/
